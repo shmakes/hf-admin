@@ -1,0 +1,5 @@
+packages/*
+.couchapprc
+.*.swp
+*~
+*.bak

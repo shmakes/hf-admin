@@ -1,0 +1,25 @@
+{
+    "name": "admin",
+    "version": "0.0.1",
+    "description": "Honor Flight Administration",
+    "load": "lib/app",
+    "modules": "lib",
+    "attachments": "static",
+    "dust": {
+        "templates": "templates"
+    },
+    "duality": {
+        "base_template": "base.html"
+    },
+    "dependencies": {
+        "modules": null,
+        "properties": null,
+        "attachments": null,
+        "settings": null,
+        "duality": null,
+        "dust": null,
+        "duality-dust": null,
+        "couchtypes": null,
+        "session": null
+    }
+}
