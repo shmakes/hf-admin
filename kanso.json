@@ -1,11 +1,11 @@
 {
     "name": "admin",
     "version": "0.0.1",
-    "description": "Honor Flight Administration",
+    "description": "My new CouchApp",
     "load": "lib/app",
     "modules": "lib",
     "attachments": "static",
-    "dust": {
+    "handlebars": {
         "templates": "templates"
     },
     "duality": {
@@ -17,9 +17,9 @@
         "attachments": null,
         "settings": null,
         "duality": null,
-        "dust": null,
-        "duality-dust": null,
-        "couchtypes": null,
-        "session": null
+        "handlebars": null,
+        "handlebars-helpers": null,
+        "duality-handlebars": null,
+        "couchtypes": null
     }
 }
